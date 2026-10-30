@@ -102,5 +102,3 @@ O desenvolvimento das duas versões permitiu aplicar conceitos de retorno, risco
 
 ![Gráfico de desempenho histórico dos bancos](desempenho_bancos.png)
 
-## Gráfico de Desempenho 
-![Desempenho histórico das ações dos bancos](desempenho_bancos.png)
